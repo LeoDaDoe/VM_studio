@@ -2,11 +2,12 @@
 
 The projects idea was to make a mock application to manage virtual machine nodes. 
 Data would be externally sent to a SQL server and fetched into the application using EF6 to be shown for the user.
-The initial version of the project was partialy completed using: 
+The initial version of the project was partially completed using: 
 - Java;
 - Java Spring; 
 - JavaFX;
 - Hibernate;
+
 during the "Programming technologies" module at my university.
 
 # Core tasks:
