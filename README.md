@@ -10,7 +10,8 @@ The initial version of the project was partially completed using:
 
 during the "Programming technologies" module at my university.
 
-# Core tasks:
+-----------------
+## Core tasks:
 - Deepening personal understanding of entity framework 6.
 - Learning how to apply the "Inversion of control" principle.
 - Learning how to apply clean coding rules.
